@@ -21,5 +21,5 @@ The app provides:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nishamehta07/weather-now-app.git
+   git clone https://github.com/nishamehta7/weather-now-app.git
    cd weather-now-app
